@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...java and web dev
 - 💞️ I’m looking to collaborate on ...web designing 
 - 📫 How to reach me ...
-- skills C C++ java (javascript html css) DSA OS
+- skills C C++ java (javascript html css) DSA OS React
 
 <!---
 sagarpjpt/sagarpjpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
