@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sagarpjpt
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java and web dev
-- 💞️ I’m looking to collaborate on ...web designing 
+- 👀 Love coding
+- 🌱 I’m currently learning app and web dev
+- 💞️ I’m looking to collaborate on web designing and app dev
 - 📫 How to reach me ...
-- skills C C++ java (javascript html css) DSA OS React
+- skills C C++ java (javascript html css) DSA OS React.js
 
 <!---
 sagarpjpt/sagarpjpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
