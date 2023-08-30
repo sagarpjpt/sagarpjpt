@@ -2,7 +2,7 @@
 - 👀 Love coding
 - 🌱 I’m currently learning app and web dev
 - 💞️ I’m looking to collaborate on web designing and app dev
-- 📫 How to reach me ...
+- 📫 sagarprjpt99@gmail.com
 - skills C C++ java (javascript html css) DSA OS React.js
 
 <!---
