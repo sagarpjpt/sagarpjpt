@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarpjpt
-- 👀 Love coding
+- 👀 Love coding | GATE Aspirant | Tech - Geek | intovert 
 - 🌱 I’m currently learning app and web dev
 - 💞️ I’m looking to collaborate on web designing and app dev
 - 📫 sagarprjpt99@gmail.com
