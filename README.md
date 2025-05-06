@@ -23,8 +23,8 @@
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js
 - 🧩 **Backend**: Node.js, Express.js (learning), Java Servlets
 - 🗃️ **Database**: MySQL
-- ⚙️ **Tools & Platforms**: Git, Linux, Eclipse, VS Code, IntelliJ IDEA
-- 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design & Digital Logic
+- ⚙️ **Tools & Platforms**: Docker, Git, Linux, Eclipse & VS Code
+- 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, Digital Logic & Cloud Computing
 - 📱 **App Development**: JavaFX
 
 ---
