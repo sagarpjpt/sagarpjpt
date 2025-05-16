@@ -40,9 +40,6 @@
 - 🔹 **Weather App** – Real-time weather forecast with dynamic backgrounds, dark mode, and responsive UI.  
   *Tech: HTML, CSS, JS, OpenWeatherMap API*
 
-- 🔹 **Spotify Clone (Frontend)** – UI replication of Spotify with responsive design.  
-  *Tech: HTML, CSS, JS*
-
 ---
 
 ### 📈 GitHub Stats
