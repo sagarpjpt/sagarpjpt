@@ -20,7 +20,7 @@
 ### 🧠 Skills & Technologies
 
 - 💻 **Languages**: C, C++, Java (JSP, JavaFX, JDBC)
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS
 - 🧩 **Backend**: Node.js, Express.js (learning), Java Servlets
 - 🗃️ **Database**: MySQL
 - ⚙️ **Tools & Platforms**: Docker, Git, Linux, Eclipse & VS Code
