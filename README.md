@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
-<h3 align="center">Web & App Developer | GATE Aspirant | Java Dev</h3>
+<h3 align="center">Web & App Developer | Java Dev | GATE CS 2025 Qualified</h3>
 
 ---
 
