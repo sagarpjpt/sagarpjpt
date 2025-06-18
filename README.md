@@ -24,7 +24,7 @@
 - 🧩 **Backend**: Node.js, Express.js (learning), Java Servlets
 - 🗃️ **Database**: MySQL
 - ⚙️ **Tools & Platforms**: Docker, Git, Linux, Eclipse & VS Code
-- 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, Digital Logic & Cloud Computing
+- 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, COA, Digital Logic & Cloud Computing
 - 📱 **App Development**: JavaFX
 
 ---
