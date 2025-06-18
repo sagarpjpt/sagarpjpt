@@ -3,7 +3,7 @@
 
 ---
 
-- 👨‍💻 I’m a **Tech Geek**, **Introvert**, a **Code Lover** who enjoys building cool projects & a passionate problem solver
+- 👨‍💻 I’m a **Tech Geek**, **Introvert**, a **Code Lover** who enjoys building cool projects & solving problems
 - 🌱 Currently learning **Full Stack Web Development** while preparing for **Gate 2026**
 - 💡 Looking to collaborate on **Web Design**, **React Projects**, and **Java-based Applications**
 - 📫 Reach me at: **sagarprjpt99@gmail.com**
