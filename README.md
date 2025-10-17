@@ -21,9 +21,9 @@
 
 - 💻 **Languages**: C, C++, Java (JSP, JavaFX, JDBC)
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS
-- 🧩 **Backend**: Node.js, Express.js (learning), Java Servlets
-- 🗃️ **Database**: MySQL
-- ⚙️ **Tools & Platforms**: Docker, Git, Linux, Eclipse & VS Code
+- 🧩 **Backend**: Node.js, Express.js, Java Servlets
+- 🗃️ **Database**: MySQL, MongoDB
+- ⚙️ **Tools & Platforms**: Docker, Firebase, Git, Linux, Eclipse & VS Code
 - 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, COA, Digital Logic & Cloud Computing
 - 📱 **App Development**: JavaFX
 
