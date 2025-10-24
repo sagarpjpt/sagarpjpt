@@ -29,8 +29,6 @@
 
 ---
 
-# Shivam Prajapati - Top Projects
-
 ### Projects
 
 - **AI Resume Analyzer** – Interactive resume scoring app providing AI-powered feedback, PDF-to-image conversion, and state management.  
