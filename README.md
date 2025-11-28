@@ -52,7 +52,7 @@
 - **Airbnb Clone** – Booking platform clone demonstrating full-stack skills with MongoDB, Node.js, Express, and EJS templates.  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-000000)
 
-- **Discord Clone** – Interactive chat interface clone with modern UI using Tailwind CSS.  
+- **Discord Clone** – Home pg clone with modern UI using Tailwind CSS.  
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 
