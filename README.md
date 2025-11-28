@@ -3,29 +3,29 @@
 
 ---
 
-- 👨‍💻 I’m a **Tech Geek**, **Introvert**, a **Code Lover** who enjoys building cool projects & solving problems
-- 🌱 Currently learning **Full Stack Web Development** while preparing for **Gate 2026**
-- 💡 Looking to collaborate on **Web Design**, **React Projects**, and **Java-based Applications**
-- 📫 Reach me at: **sagarprjpt99@gmail.com**
+-  I’m a **Tech Geek**, **Introvert**, a **Code Lover** who enjoys building cool projects & solving problems
+-  Currently learning **Full Stack Web Development** while preparing for **Gate 2026**
+-  Looking to collaborate on **Web Design**, **React Projects**, and **Java-based Applications**
+-  Reach me at: **sagarprjpt99@gmail.com**
 
 ---
 
-### 🏆 Achievements & Practice
-- 📘 **Gate 2025 Score : 38.38 Marks**
-- ✅ Solved all **NeetCode 150** problems – mastered core DSA concepts
-- 📘 Practicing regularly on [LeetCode](https://leetcode.com/u/sagarprjpt99/) , [Hackerrank](https://www.hackerrank.com/profile/shivam_prjpt99)
+###  Achievements & Practice
+-  **Gate 2025 Score : 38.38 Marks**
+-  Solved all **NeetCode 150** problems – mastered core DSA concepts
+-  Practicing regularly on [LeetCode](https://leetcode.com/u/sagarprjpt99/) , [Hackerrank](https://www.hackerrank.com/profile/shivam_prjpt99)
   and [CodeWars](https://www.codewars.com/users/Shivam%20Prajapati)]
 ---
 
-### 🧠 Skills & Technologies
+###  Skills & Technologies
 
-- 💻 **Languages**: C, C++, Java (JSP, JavaFX, JDBC)
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS
-- 🧩 **Backend**: Node.js, Express.js, Java Servlets
-- 🗃️ **Database**: MySQL, MongoDB
-- ⚙️ **Tools & Platforms**: Docker, Firebase, Git, Linux, Eclipse & VS Code
-- 📚 **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, COA, Digital Logic & Cloud Computing
-- 📱 **App Development**: JavaFX
+-  **Languages**: C, C++, Java (JSP, JavaFX, JDBC)
+-  **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS
+-  **Backend**: Node.js, Express.js, Java Servlets
+-  **Database**: MySQL, MongoDB
+-  **Tools & Platforms**: Docker, Firebase, Git, Linux, Eclipse & VS Code
+-  **CS Fundamentals**: DSA, OOPs, DBMS, OS, CN, N/W Security, Compiler Design, COA, Digital Logic & Cloud Computing
+-  **App Development**: JavaFX
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarpjpt&show_icons=true&theme=radical" alt="sagarpjpt github stats" />
@@ -67,11 +67,11 @@
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
-- 📧 Email: [sagarprjpt99@gmail.com](mailto:sagarprjpt99@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/shivam-prajapati-1073a4187](https://www.linkedin.com/in/shivam-prajapati-1073a4187/)  
-- 🌐 Portfolio: [shivamprjpt.netlify.app](https://shivamprjpt.netlify.app/)
+-  Email: [sagarprjpt99@gmail.com](mailto:sagarprjpt99@gmail.com)  
+-  LinkedIn: [linkedin.com/in/shivam-prajapati-1073a4187](https://www.linkedin.com/in/shivam-prajapati-1073a4187/)  
+-  Portfolio: [shivamprjpt.netlify.app](https://shivamprjpt.netlify.app/)
 
 ---
 
