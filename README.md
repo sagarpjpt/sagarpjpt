@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
-<h3 align="center">MERN Stack Developer | Next.js & TypeScript Learner | Java Programmer | GATE(CS) 2025 Qualified - Rank 451</h3>
+<h3 align="center">MERN Developer | Next.js & TypeScript Learner | Java Programmer | GATE(CS) Qualified - Rank 451</h3>
 
 ---
 
