@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivam Prajapati</h1>
-<h3 align="center">Full Stack & DevOps Developer | Next.js, Go & Spring Boot | AWS, CI/CD, RAG Integration | GATE(CS) 2025 Rank 451</h3>
+<h3 align="center">Full Stack & DevOps Developer | Next.js, Go & Spring Boot | AWS, CI/CD, RAG Integration |
 
 ---
 
